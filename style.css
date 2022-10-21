@@ -343,6 +343,26 @@ nav ul li a{
     padding: 100px 0 20px;
     background: #f5e2e2;
   }
+  .footer-row{
+    width:80%;
+    margin:0 auto;
+    display: flex;
+    justify-content:space-between;
+    flex-wrap: wrap;
+  }
+  .footer-left,footer-right{
+    flex-basis: 45%;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  .footer-row h1{
+    margin: 10px 0;
+  }
+  .footer-row h1{
+    margin: 10px 0;
+    line-height: 36px;
+  }
 
-   
 
+
+    
